@@ -13,6 +13,7 @@ Materi ini dibuat sebagai media pembelajaran untuk memahami konsep algoritma sep
 ### Sorting
 
 * Bubble Sort
+* Merge Sort
 * Selection Sort
 * Insertion Sort
 
